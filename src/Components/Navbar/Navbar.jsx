@@ -44,7 +44,7 @@ const Navbar = () => {
                 </div>
                 <div className="item">
                   <img
-                   src= "https://wallpaperscraft.com/download/men_figurines_boy_girl_close-up_stone_green_68292/800x600"
+                   src= "https://images.wallpaperscraft.com/image/single/men_figurines_boy_girl_close-up_stone_green_68292_800x600.jpg"
                   alt=""
                   className='avatar '/>
                 </div>
